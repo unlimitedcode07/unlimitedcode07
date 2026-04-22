@@ -1,17 +1,15 @@
 # 👋 Hey, I'm KP (Kalpesh Patil)
 
 🎓 CSE Student | 💻 Full Stack Developer | 🤖 AI Explorer
-🔥 “Future legend in coding — not just learning, I'm evolving.”
 
 ---
 
 ## 🚀 About Me
 
-* 💻 Aspiring Software Engineer with hands-on experience in Java, JavaScript & backend systems 
+* 💻 Aspiring Software Engineer with hands-on experience in Java, JavaScript & backend systems
 * 🧠 Currently exploring **Competitive Programming** & **AI development**
 * 🔥 Building real-world projects using Node.js, MongoDB & APIs
-* 🎯 Goal: *To become a god-level coder who dominates the coding world* ⚡
-* 🎌 Anime Lover — Completed the **Big 3** 🐐 (Naruto, One Piece, Bleach)
+* 🎌 And Anime anime is 🫶
 
 ---
 
@@ -26,11 +24,12 @@
 
 ## 🔥 Projects
 
-* 📄 **RAG-Based PDF Reader** – AI-powered document Q&A system
-* 🏠 **Paradise Property System** – Full-stack booking platform
-* 🎮 **Simon Says Game** – JavaScript logic-based game
+* 📄 [RAG-Based PDF Reader](https://github.com/unlimitedcode07/Pdf_reader_RAG_Using_ChromaDb) – AI-powered document Q&A system
+* 🏠 [Paradise Property System](https://paradise-valley.onrender.com/listing) – Full-stack booking platform (Live)
+* 🎮 [Simon Says Game](https://unlimitedcode07.github.io/Simon-Says-Game/) – JavaScript logic-based game (Live)
 
 ---
+
 
 ## 📊 GitHub Stats
 
@@ -45,7 +44,6 @@
 * 🏆 CodeChef: https://www.codechef.com/users/kp_007
 
 ---
-
 
 
 <!--
