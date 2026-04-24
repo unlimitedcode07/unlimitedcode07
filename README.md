@@ -68,7 +68,7 @@
 
 ## ⚡ Quote
 
-> "If the code doesn’t work, don’t stop — debug until it does." 💻🔥
+> "If the code doesn’t work, don’t stop — use ai." 💻🔥
 
 
 
